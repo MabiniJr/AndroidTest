@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Set up AutoCompleteTextView for Name
         AutoCompleteTextView nameInput = findViewById(R.id.name_input);
-        String[] names = {"John Doe", "Jane Smith", "Alice Johnson"};
+        String[] names = { "John Doe", "Jane Smith", "Alice Johnson" };
         setupDropdown(nameInput, names);
 
         // Set up AutoCompleteTextView for ID
