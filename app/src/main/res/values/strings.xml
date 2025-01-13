@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UITes</string>
+    <string name="hint_name">Enter Name</string>
+    <string name="hint_id">Enter ID#</string>
+    <string name="hint_course">Enter Course/Section</string>
+    <string name="hint_date">Enter Date</string>
+    <string name="submit">Submit</string>
+</resources>
